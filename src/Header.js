@@ -3,7 +3,9 @@ import React from "react";
 export default function Header() {
   return (
     <div>
-      <h1>Hello world</h1>
+      <header>
+        <h1>Meme Generator</h1>
+      </header>
     </div>
   );
 }

@@ -3,3 +3,40 @@
   text-align: center;
   background-color: aliceblue;
 }
+header {
+  background-color: #03a9f4;
+}
+img {
+  padding: 10px;
+  max-width: 400px;
+}
+button {
+  margin: 10px;
+}
+h2 {
+  padding: none;
+  margin: 0 auto;
+}
+.top-text {
+  font-size: 36px;
+  color: whitesmoke;
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+
+  text-shadow: -1px -1px 0px #000, 0px -1px 0px #000, 1px -1px 0px #000,
+    -1px 0px 0px #000, 1px 0px 0px #000, -1px 1px 0px #000, 0px 1px 0px #000,
+    1px 1px 0px #000;
+}
+
+.bottom-text {
+  font-size: 36px;
+  color: whitesmoke;
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+
+  text-shadow: -1px -1px 0px #000, 0px -1px 0px #000, 1px -1px 0px #000,
+    -1px 0px 0px #000, 1px 0px 0px #000, -1px 1px 0px #000, 0px 1px 0px #000,
+    1px 1px 0px #000;
+}
